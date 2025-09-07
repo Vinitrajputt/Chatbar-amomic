@@ -1,0 +1,36 @@
+/* styles.qss */
+
+#container {
+    background-color: #1A1A1A;
+    border-radius: 12px;
+}
+
+QLineEdit {
+    background-color: #2C2C2C;
+    color: #E0E0E0;
+    border: 1px solid #444444;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 11pt;
+    font-family: "Segoe UI";
+}
+
+QTextEdit {
+    background-color: transparent;
+    color: #B0B0B0;
+    border: none;
+    padding: 5px;
+    font-size: 10pt;
+    font-family: "Segoe UI";
+}
+
+QPushButton {
+    background-color: #2C2C2C;
+    border: 1px solid #444444;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+QPushButton:hover {
+    background-color: #383838;
+}

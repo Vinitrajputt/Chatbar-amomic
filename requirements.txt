@@ -1,0 +1,4 @@
+openai
+pyqt5
+keyboard
+requests
