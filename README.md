@@ -10,23 +10,17 @@
 
 **A sleek, modern desktop AI chat interface with global hotkey support, streaming responses, and beautiful animations.**
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Configuration](#-configuration) • [Contributing](#-contributing)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Contributing](#-contributing)
 
 </div>
 
 ---
 
-## 📸 Demo
-
-<!-- ### Video Demo
-*Coming Soon - Add your demo video here* -->
-
 ### Screenshots
-*Add screenshots of your application here*
 
 | Main Interface | Thinking Animation | Response Display |
 |:--------------:|:-----------------:|:----------------:|
-| ![Main UI](assets\amomic-chatbar.gif) | ![Thinking](assets\amomic-chatbar-thinking.gif) | ![Response](assets\amomic-chatbar-response.gif) |
+| ![Main UI](./assets/amomic-chatbar.gif) | ![Thinking](./assets/amomic-chatbar-thinking.gif) | ![Response](./assets/amomic-chatbar-response.gif) |
 
 ---
 
